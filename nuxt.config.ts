@@ -9,6 +9,7 @@ export default defineNuxtConfig({
 
   image: {
     domains: ['picsum.photos', 'www.google.com'],
+    provider: 'ipx',
   },
 
   content: {

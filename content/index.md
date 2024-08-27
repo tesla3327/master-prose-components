@@ -60,15 +60,14 @@ Try clicking on each image to see it.
 
 If you check the dev tools you'll notice that we're loading a small image inline, then loading the biggest image we can (based on screen size and density) to display in the lightbox. This is all done using `NuxtImg` and `IPX`.
 
-Here's a picture of the Scottish Highlands:
-![](https://source.unsplash.com/green-field-under-white-cloudy-sky-UiE-kcDnIGs/6000x4000)
+Here's a picture of a mountain:
+![](https://picsum.photos/id/10/2500/1667)
 
-The next picture is of a car:
-![](https://source.unsplash.com/blue-volkswagen-beetle-on-grass-field-7HNftpNvqho/6000x4000)
+The next picture is of two cars:
+![](https://picsum.photos/id/133/2742/1828)
 
 This last picture is of a city:
-
-![](https://source.unsplash.com/aerial-photograph-of-cityscape-ErccHKWjG18/6000x4000)
+![](https://picsum.photos/id/57/2448/3264)
 
 ## 4. Meta-data on links
 
